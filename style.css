@@ -9,7 +9,7 @@ body {
   color: #e5e7eb;
 }
 
-.container {
+main {
   max-width: 720px;
   padding: 24px;
   margin: 0 auto;
